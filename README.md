@@ -1,2 +1,8 @@
 # Talks
-Talks links and repo, for further information and research.
+
+All Talks and further links here, if you want to dig in on specific topic.
+
+- 2021:
+  - [Tchelinux](2021/Tchelinux) - DEVSECOPS
+
+
